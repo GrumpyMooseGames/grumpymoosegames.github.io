@@ -1,68 +1,128 @@
-**Privacy Policy**
+---
+title: Privacy Policy
+description: Unicorn Water Sort - Liquid Sort Puzzle
+---
 
-Grumpy Moose Games built the Unicorn Rainbow Sort app as a Freemium app. This SERVICE is provided by Grumpy Moose Games at no cost and is intended for use as is.
+**Last updated: October 18, 2026**
 
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
+This Privacy Policy explains what information the mobile game **Unicorn Water Sort - Liquid Sort Puzzle** (the "game") collects on Android and iOS, how it is used and shared, and what choices you have. It applies to version 2.0.0 and later. The game is developed by Grumpy Moose Games ("we", "us"). You can reach us at [nikita.gmgm@gmail.com](mailto:nikita.gmgm@gmail.com).
 
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+## Summary
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Unicorn Rainbow Sort unless otherwise defined in this Privacy Policy.
+- The game has no accounts. We never ask for your name, email address, phone number, contacts, photos or precise location.
+- Your progress and settings are stored only on your device.
+- The game uses Google services: AdMob shows ads, Firebase provides analytics and remote settings, and Google Play Billing or the Apple App Store handle the optional No Ads purchase. These services receive device identifiers and information about how the game is used.
+- Every ad request is marked as child-directed and limited to G-rated content, so the ads are not personalized. On iOS the game does not ask for tracking permission and does not access the Apple advertising identifier (IDFA).
+- We do not sell your personal information.
 
-**Information Collection and Use**
+## Information stored on your device
 
-For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+The game saves your level progress, your settings (day/night theme, sound, vibration, tap timing), whether you own No Ads, the latest remote settings and the Firebase installation ID in its own storage on your device. We do not receive this saved data. It is deleted when you uninstall the game or clear its data.
 
-The app does use third party services that may collect information used to identify you.
+## Information collected automatically
 
-Link to privacy policy of third party service providers used by the app
+When you play, the following information is collected by the services built into the game:
 
-*   [Google Play Services](https://www.google.com/policies/privacy/)
-*   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
-*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
-*   [Unity](https://unity3d.com/legal/privacy-policy)
+| Data | What exactly | Collected by | Purposes |
+|---|---|---|---|
+| Device or other IDs | Android ID on Android or the identifier for vendor (IDFV) on iOS, used as the analytics user ID; Firebase app instance ID and installation ID; Android advertising ID and app set ID | Firebase Analytics, Firebase Remote Config, Google Mobile Ads SDK | Analytics, advertising, fraud prevention |
+| App interactions | Levels started, completed and restarted; moves, undos and restarts per level; tutorial steps; menus opened; sessions; ads shown and tapped; your day/night setting; whether the consent form applies to you and whether you have answered it | Firebase Analytics, Google Mobile Ads SDK | Analytics, advertising |
+| Purchase history | The No Ads purchase: product, price, currency and time | Firebase Analytics (automatic purchase events) | Analytics |
+| App info and performance | Device model, operating system and app version, language, time zone, app launch time, ad and SDK performance | Firebase, Google Mobile Ads SDK | Analytics, advertising, fraud prevention, delivering remote settings |
+| Approximate location | Country or region estimated from your IP address | Firebase Analytics, Google Mobile Ads SDK | Analytics, advertising, fraud prevention |
 
-**Log Data**
+All of this information is encrypted in transit (TLS). We do not use it to find out who you are and do not combine it with other information about you.
 
-We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics.
+## How we use information
 
-**Cookies**
+- To understand how the game is played, for example which levels are too hard or where players stop, and to improve it.
+- To show ads, which keep the game free, and to measure how they perform.
+- To change some game settings without an app update, for example whether an ad is shown between levels.
+- To provide and restore the No Ads purchase.
+- To detect and prevent fraud and abuse.
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+## Advertising
 
-This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+The game shows ads through Google AdMob: an ad after some completed levels, and rewarded ads that you choose to watch to get an extra undo or an extra bottle. Buying No Ads stops the game from requesting any ads.
 
-**Service Providers**
+Every ad request is marked for child-directed treatment and limited to the G content rating. For such requests Google does not show personalized (interest-based) ads or remarketing. Google may still receive your device's IP address, advertising identifiers and information about the ads shown, to deliver ads, measure them, limit how often you see the same ad and prevent fraud.
 
-We may employ third-party companies and individuals due to the following reasons:
+On Android you can reset or delete your advertising ID in the device settings (Settings > Privacy > Ads, or Settings > Google > Ads, depending on the device).
 
-*   To facilitate our Service;
-*   To provide the Service on our behalf;
-*   To perform Service-related services; or
-*   To assist us in analyzing how our Service is used.
+On iOS the game does not use App Tracking Transparency and does not access the IDFA.
 
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+## Consent in the EEA, the UK and Switzerland
 
-**Security**
+If you are in the European Economic Area, the United Kingdom or Switzerland, the game shows Google's consent form (Google User Messaging Platform, a consent management platform certified under the IAB Transparency and Consent Framework) before it requests any ad. Your choices are stored on your device and passed to Google. You can change them at any time with the **Privacy** button in the game menu. If you do not give consent, Google may show limited ads that do not use local storage on your device.
 
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+The consent form covers advertising. Analytics and remote settings work independently of it, on the basis of our legitimate interests described below.
 
-**Links to Other Sites**
+## Analytics
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+We use Google Analytics for Firebase to see how the game is played. We have configured it so that analytics data is not used for advertising: the advertising consent signals (`ad_storage`, `ad_user_data`, `ad_personalization`) are set to "denied", and Google signals and ads personalization are turned off in our Analytics settings.
 
-**Children’s Privacy**
+Event data is kept for 14 months and then deleted automatically. Aggregated reports that no longer relate to an individual device may be kept longer.
 
-These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+## Remote settings
 
-**Changes to This Privacy Policy**
+Once per launch the game asks Firebase Remote Config for its current settings. The request contains the Firebase installation ID, the app ID, version and package name, your device language and time zone.
 
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
+## In-app purchase
 
-This policy is effective as of 2021-09-14
+The optional No Ads purchase is processed by Google Play on Android and by the Apple App Store on iOS. We never receive your payment card details, name or billing address. The store only tells the game whether you own No Ads; the game asks it at every launch and when you tap **Restore Purchases**. The privacy policies of Google and Apple apply to the payment itself.
 
-**Contact Us**
+## Third-party services
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at nikita.gmgm@gmail.com.
+The game uses the following services. Each has its own privacy policy:
 
-This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+- Google AdMob (Google Mobile Ads SDK) and Google User Messaging Platform: [Google Privacy Policy](https://policies.google.com/privacy), [How Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites)
+- Google Analytics for Firebase, Firebase Installations and Firebase Remote Config: [Privacy and Security in Firebase](https://firebase.google.com/support/privacy)
+- Google Play Billing: [Google Privacy Policy](https://policies.google.com/privacy)
+- Apple App Store (StoreKit): [Apple Privacy Policy](https://www.apple.com/legal/privacy/)
+
+## Sharing
+
+We share information only with the services listed above, as described in this policy. Google processes Firebase data on our behalf, and processes advertising data under its own privacy policy. We do not sell your personal information, do not share it for cross-context behavioral advertising and do not give it to data brokers. We may disclose information if the law requires it.
+
+## Legal bases (EEA, UK and Switzerland)
+
+- **Legitimate interests**: analytics, remote settings, fraud prevention and security.
+- **Consent**: storing and accessing information on your device for advertising, collected through Google's consent form.
+- **Contract**: providing the No Ads purchase you made.
+
+## International transfers
+
+Google may process information outside your country, including in the United States. For transfers from the EEA, the UK and Switzerland Google relies on safeguards such as the EU-U.S. Data Privacy Framework and the Standard Contractual Clauses of the European Commission.
+
+## Data retention
+
+- Data saved on your device: until you uninstall the game or clear its data.
+- Analytics event data: 14 months.
+- Data processed by Google for AdMob, Remote Config and Google Play, and by Apple for the App Store: according to their own retention policies.
+
+## Your rights and choices
+
+- Change your ad consent at any time with the **Privacy** button in the game menu (EEA, UK and Switzerland).
+- Reset or delete your advertising ID in the Android device settings.
+- Buy No Ads to stop all ads.
+- Uninstall the game to delete the data saved on your device and stop all collection.
+- Depending on where you live, you may have the right to access, correct or delete your data, to object to or restrict its processing, and to data portability. To use these rights, email us. The game has no accounts and we do not know who you are, so we can only find data that is linked to your device; we will explain in our reply how to identify it. We answer within 30 days.
+- You also have the right to lodge a complaint with your local data protection authority.
+
+If you live in California, you have the right to know what personal information we collect, to request its deletion or correction, and not to be discriminated against for using these rights. We do not sell or share personal information as these terms are defined in California law.
+
+## Children
+
+The game is intended for players aged 13 and over and is not directed at children under 13. Because younger players may still like it, every ad request is marked as child-directed, limited to G-rated content and not personalized. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child is using the game, contact us and we will delete the analytics data linked to their device.
+
+## Security
+
+The game does not run its own servers. Information is sent over encrypted connections (TLS) directly to Google and Apple, which store it with their own security measures. No method of transmission or storage is completely secure, so we cannot guarantee absolute security.
+
+## Changes to this policy
+
+We may update this policy, for example when the game starts using a new service. The current version is always on this page, with the date of the last change at the top. Earlier versions of the game (1.x, made with the Unity engine) also included Unity and Firebase Crashlytics libraries; if you still have one of them installed, please update the game.
+
+## Contact us
+
+Grumpy Moose Games, [nikita.gmgm@gmail.com](mailto:nikita.gmgm@gmail.com)
