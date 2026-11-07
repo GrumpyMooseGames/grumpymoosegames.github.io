@@ -3,7 +3,7 @@ title: Privacy Policy
 description: Unicorn Water Sort - Liquid Sort Puzzle
 ---
 
-**Last updated: October 21, 2026**
+**Last updated: November 7, 2026**
 
 This Privacy Policy explains what information the mobile game **Unicorn Water Sort - Liquid Sort Puzzle** (the "game") collects on Android and iOS, how it is used and shared, and what choices you have. It applies to version 2.0.0 and later. The game is developed by Grumpy Moose Games ("we", "us"). You can reach us at [nikita.gmgm@gmail.com](mailto:nikita.gmgm@gmail.com).
 
@@ -12,8 +12,8 @@ This Privacy Policy explains what information the mobile game **Unicorn Water So
 - The game has no accounts. We never ask for your name, email address, phone number, contacts, photos or precise location.
 - Your save file stays on your device. Gameplay and settings events are sent for analytics and crash diagnostics as described below.
 - The game uses Google services: AdMob shows ads, Firebase provides analytics, Android crash reports and remote settings, and Google Play Billing or the Apple App Store handle the optional No Ads purchase. These services receive device identifiers and information about how the game is used.
-- Every ad request is marked as child-directed and limited to G-rated content, so the ads are not personalized. On iOS the game does not ask for tracking permission and does not access the Apple advertising identifier (IDFA).
-- We do not sell your personal information.
+- The game is intended for players aged 13 and over. It has no age-verification screen and does not ask for your date of birth. Ad content is limited to the G rating. Ads may be personalized where permitted by Google and your applicable consent or privacy choices; older builds request only child-directed, non-personalized ads. On iOS the game does not ask for tracking permission and does not access the Apple advertising identifier (IDFA).
+- We do not sell personal information for money. Advertising data shared with Google may be considered a sale or sharing under some US state privacy laws; the advertising choices below explain how to opt out where applicable.
 
 ## Information stored on your device
 
@@ -54,7 +54,11 @@ The game shows ads through Google AdMob:
 
 Buying No Ads turns off all three advertising formats. It does not turn off analytics, Android crash reporting or remote settings.
 
-Every ad request is marked for child-directed treatment and limited to the G content rating. For such requests Google does not show personalized (interest-based) ads or remarketing. Google may still receive your device's IP address, advertising identifiers and information about the ads shown, to deliver ads, measure them, limit how often you see the same ad and prevent fraud.
+Ad content is limited to the G rating. The general-audience 13+ advertising configuration does not mark every player as a child or as an adult: we do not collect ages. Google determines which ads it may serve using the applicable consent and privacy signals and its own protections for users it knows are minors. Where permitted, ads may be personalized using information Google processes under its own privacy policy. Where personalization is not permitted or you decline it, Google may serve non-personalized or limited ads, or no ad.
+
+Older installed builds, including versions 2.0.0 and 2.0.1, mark all ad requests as child-directed and request non-personalized ads. This policy update also covers the general-audience configuration for subsequent releases.
+
+Google may receive your device's IP address, available device identifiers and information about the ads shown to deliver and measure ads, limit how often you see the same ad and prevent fraud. The identifiers available to Google depend on your device, permissions, ad treatment and privacy choices.
 
 On Android you can reset or delete your advertising ID in the device settings (Settings > Privacy > Ads, or Settings > Google > Ads, depending on the device).
 
@@ -65,6 +69,10 @@ On iOS the game does not use App Tracking Transparency and does not access the I
 If you are in the European Economic Area, the United Kingdom or Switzerland, the game shows Google's consent form (Google User Messaging Platform, a consent management platform certified under the IAB Transparency and Consent Framework) before it requests any ad. Your choices are stored on your device and passed to Google. You can change them at any time with the **Privacy** button in the game menu. If you do not give consent, Google may show limited ads that do not use local storage on your device.
 
 The consent form covers advertising. Analytics, Android crash reporting and remote settings work independently of it, on the basis of our legitimate interests described below. Declining ad consent or buying No Ads does not disable these services; the game currently has no in-app switch to turn them off.
+
+## US state advertising choices
+
+In applicable US states, the **Privacy** button in the game menu opens Google's privacy options, including an option to opt out of the sale or sharing of personal information for targeted advertising. Google's User Messaging Platform stores the choice on your device and sends the corresponding privacy signal to the advertising SDK. Opting out restricts advertising data processing; it does not disable gameplay analytics, crash reports or remote settings.
 
 ## Analytics
 
@@ -97,12 +105,12 @@ The game uses the following services. Each has its own privacy policy:
 
 ## Sharing
 
-We share information only with the services listed above, as described in this policy. Google processes Firebase data on our behalf, and processes advertising data under its own privacy policy. We do not sell your personal information, do not share it for cross-context behavioral advertising and do not give it to data brokers. We may disclose information if the law requires it.
+We share information with the services listed above as described in this policy. Google processes Firebase data on our behalf and advertising data under its own privacy policy. We do not sell personal information for money or provide it to data brokers. Sharing advertising identifiers and interaction data with Google for personalized advertising may be considered a sale or sharing for cross-context behavioral advertising under some US state laws. You can use the applicable advertising privacy options described above to opt out. We may also disclose information if required by law.
 
 ## Legal bases (EEA, UK and Switzerland)
 
 - **Legitimate interests**: analytics, diagnosing crashes and improving stability, remote settings, fraud prevention and security.
-- **Consent**: storing and accessing information on your device for advertising, collected through Google's consent form.
+- **Consent**: storing and accessing information on your device for advertising and personalizing ads where applicable, as collected through Google's consent form and subject to the choices and legal bases shown there.
 - **Contract**: providing the No Ads purchase you made.
 
 ## International transfers
@@ -118,18 +126,18 @@ Google may process information outside your country, including in the United Sta
 
 ## Your rights and choices
 
-- Change your ad consent at any time with the **Privacy** button in the game menu (EEA, UK and Switzerland).
+- Use the **Privacy** button in the game menu to change ad consent in the EEA, UK and Switzerland, or to manage the advertising opt-out in applicable US states. If no regional privacy form is required, the button opens this policy.
 - Reset or delete your advertising ID in the Android device settings.
 - Buy No Ads to stop all ads.
 - Uninstall the game to delete local saved data and stop future collection from that installation. This does not delete reports or events already sent to Google; those are subject to the retention periods above.
 - Depending on where you live, you may have the right to access, correct or delete your data, to object to or restrict its processing, and to data portability. To use these rights, email us. The game has no accounts and we do not know who you are, so we can only find data that is linked to your device; we will explain in our reply how to identify it. We answer within 30 days.
 - You also have the right to lodge a complaint with your local data protection authority.
 
-If you live in California, you have the right to know what personal information we collect, to request its deletion or correction, and not to be discriminated against for using these rights. We do not sell or share personal information as these terms are defined in California law.
+If you live in California, you have the right to know what personal information we collect, to request its deletion or correction, to opt out of sale or sharing for cross-context behavioral advertising, and not to be discriminated against for using these rights. Use the **Privacy** button for the advertising opt-out, or contact us about your other rights.
 
 ## Children
 
-The game is intended for players aged 13 and over and is not directed at children under 13. Because younger players may still like it, every ad request is marked as child-directed, limited to G-rated content and not personalized. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child is using the game, contact us and we will delete the analytics data linked to their device.
+The game is intended for players aged 13 and over and is not directed at children under 13. We do not ask for a date of birth or verify ages. The stated audience does not itself prevent a younger person from installing the game. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided personal information through the game, contact us so we can investigate and arrange deletion of data we can identify. Google applies its own advertising protections for users it knows are minors; a 13+ audience does not mean that personalized ads are appropriate for every player.
 
 ## Security
 
