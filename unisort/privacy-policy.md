@@ -3,14 +3,14 @@ title: Privacy Policy
 description: Unicorn Water Sort - Liquid Sort Puzzle
 ---
 
-**Last updated: November 7, 2026**
+**Last updated: November 9, 2026**
 
 This Privacy Policy explains what information the mobile game **Unicorn Water Sort - Liquid Sort Puzzle** (the "game") collects on Android and iOS, how it is used and shared, and what choices you have. It applies to version 2.0.0 and later. The game is developed by Grumpy Moose Games ("we", "us"). You can reach us at [nikita.gmgm@gmail.com](mailto:nikita.gmgm@gmail.com).
 
 ## Summary
 
 - The game has no accounts. We never ask for your name, email address, phone number, contacts, photos or precise location.
-- Your save file stays on your device. Gameplay and settings events are sent for analytics and crash diagnostics as described below.
+- Your save file stays on your device. Gameplay and settings events are sent for analytics and crash diagnostics as described below. Where you permit advertising use, Analytics data may also help measure and personalize advertising for the game.
 - The game uses Google services: AdMob shows ads, Firebase provides analytics, Android crash reports and remote settings, and Google Play Billing or the Apple App Store handle the optional No Ads purchase. These services receive device identifiers and information about how the game is used.
 - The game is intended for players aged 13 and over. It has no age-verification screen and does not ask for your date of birth. Ad content is limited to the G rating. Ads may be personalized where permitted by Google and your applicable consent or privacy choices; older builds request only child-directed, non-personalized ads. On iOS the game does not ask for tracking permission and does not access the Apple advertising identifier (IDFA).
 - We do not sell personal information for money. Advertising data shared with Google may be considered a sale or sharing under some US state privacy laws; the advertising choices below explain how to opt out where applicable.
@@ -27,13 +27,13 @@ When you play, the following information is collected by the services built into
 |---|---|---|---|
 | Device or other IDs | Android ID on Android or the identifier for vendor (IDFV) on iOS, used as the analytics user ID; Firebase app instance ID and installation ID; Android advertising ID and app set ID; Crashlytics installation UUID and the Android ID used as a pseudonymous crash-report user ID | Firebase Analytics, Firebase Installations/Remote Config, Google Mobile Ads SDK; Firebase Crashlytics on Android | Analytics, app stability, delivering remote settings, advertising, fraud prevention |
 | App interactions | Menus opened, tutorial steps and sessions; ads shown and tapped, their format, placement and revenue; day/night, sound, vibration and tap settings; whether the consent form applies to you and whether you have answered it | Firebase Analytics; Google Mobile Ads SDK for ad interactions; recent Analytics events also accompany Android Crashlytics reports | Analytics, app stability, advertising, fraud prevention |
-| Gameplay | Levels started, completed and restarted; level difficulty, number and set; moves, undos, extra bottles, restarts and time spent per level; replay status and whether progress was imported from the Unity version | Firebase Analytics; recent Analytics events also accompany Android Crashlytics reports | Analytics, app stability |
-| Purchase history | The No Ads purchase: product, price, currency and time; purchase attempts and their outcome | Firebase Analytics (automatic and game-defined purchase events) | Analytics |
+| Gameplay | Levels started, completed and restarted; level difficulty, number and set; moves, undos, extra bottles, restarts and time spent per level; replay status and whether progress was imported from the Unity version | Firebase Analytics; recent Analytics events also accompany Android Crashlytics reports | Analytics, app stability, advertising measurement and audiences where permitted by your consent |
+| Purchase history | The No Ads purchase: product, price, currency and time; purchase attempts and their outcome | Firebase Analytics (automatic and game-defined purchase events) | Analytics, advertising measurement and audiences where permitted by your consent |
 | App info and performance | Device model, operating system and app version, language, time zone, app launch time, ad and SDK performance | Firebase, Google Mobile Ads SDK | Analytics, advertising, fraud prevention, delivering remote settings |
 | Crash reports (Android) | Crash stack traces, native crash data and relevant app/device state; the current level and level set; recent Analytics events and their parameters; the associated identifiers described above | Firebase Crashlytics, including its native crash reporting component | Finding and fixing crashes, measuring app stability |
 | Approximate location | Country or region estimated from your IP address | Firebase Analytics, Google Mobile Ads SDK | Analytics, advertising, fraud prevention |
 
-All of this information is encrypted in transit (TLS). We do not use it to find out who you are and do not combine it with other information about you.
+All of this information is encrypted in transit (TLS). We do not try to identify you by name. Google may associate information with other data it holds when the advertising features and choices described below allow it.
 
 ## How we use information
 
@@ -68,7 +68,7 @@ On iOS the game does not use App Tracking Transparency and does not access the I
 
 If you are in the European Economic Area, the United Kingdom or Switzerland, the game shows Google's consent form (Google User Messaging Platform, a consent management platform certified under the IAB Transparency and Consent Framework) before it requests any ad. Your choices are stored on your device and passed to Google. You can change them at any time with the **Privacy** button in the game menu. If you do not give consent, Google may show limited ads that do not use local storage on your device.
 
-The consent form covers advertising. Analytics, Android crash reporting and remote settings work independently of it, on the basis of our legitimate interests described below. Declining ad consent or buying No Ads does not disable these services; the game currently has no in-app switch to turn them off.
+The same consent form covers advertising use by AdMob and, when Consent Mode is enabled, the advertising permissions used by Firebase Analytics and Google Ads. You do not need to answer a second advertising consent form. You can accept, decline or change the available purposes through the form and the Privacy button. Ordinary gameplay analytics, Android crash reporting and remote settings work independently of advertising consent, on the basis of our legitimate interests described below. Declining ad consent or buying No Ads does not disable these services; the game currently has no in-app switch to turn them off.
 
 ## US state advertising choices
 
@@ -76,7 +76,13 @@ In applicable US states, the **Privacy** button in the game menu opens Google's 
 
 ## Analytics
 
-We use Google Analytics for Firebase to see how the game is played. We have configured it so that analytics data is not used for advertising: the advertising consent signals (`ad_storage`, `ad_user_data`, `ad_personalization`) are set to "denied", and Google signals and ads personalization are turned off in our Analytics settings.
+We use Google Analytics for Firebase to see how the game is played. Depending on the app version, enabled service features and your privacy choices, Analytics data may also be used to measure advertising, create audiences and personalize ads for this game through our linked Google Ads account.
+
+Firebase advertising permissions start as denied. In the EEA, UK and Switzerland, Google's User Messaging Platform can pass your existing form choices to Firebase through Consent Mode for advertising storage, advertising user data and advertising personalization. A recorded answer to the form does not by itself mean that you accepted every purpose. You can change or withdraw those choices using Privacy in the game menu. Where this consent integration does not apply, Firebase advertising permissions remain denied. Older versions may continue to use their existing restricted configuration.
+
+When enabled, Google signals can enrich aggregated demographic and interest reports with information Google holds about eligible users who are signed into their Google account and have Ads Personalization enabled. These reports do not give us your Google account identity. You can manage Google's ads personalization in [My Ad Center](https://myadcenter.google.com/). See also [how Google uses information from apps that use its services](https://policies.google.com/technologies/partner-sites).
+
+We do not send names, email addresses or phone numbers to Analytics for user-provided data matching. Our analytics User-ID is a device-derived pseudonymous identifier, not an account login.
 
 Event data is kept for 14 months and then deleted automatically. Aggregated reports that no longer relate to an individual device may be kept longer.
 
